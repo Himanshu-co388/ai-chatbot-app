@@ -18,11 +18,12 @@ import {
 } from "firebase/firestore";
 import axios from "axios";
 
+
 const firebaseConfig = {
   apiKey: "AIzaSyAm6TyhvUhqHGGGK21CyzOixaHXDzn81L8",
   authDomain: "antrogpt.firebaseapp.com",
   projectId: "antrogpt",
-  storageBucket: "antrogpt.firebasestorage.app",
+  storageBucket: "antrogpt.appspot.com",
   messagingSenderId: "242178756417",
   appId: "1:242178756417:web:d6302c54b0fc67105fdbc0",
   measurementId: "G-N5MDEP9BTD"
